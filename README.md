@@ -146,9 +146,9 @@ Meet the Hacktoberfest crew who will be maintaining your projects:
 **Top 5% contributors:**
 Lacah.
 earlduque.
-ynr-ram.
 ankitshu.
 SapphicFire.
+ynr-ram.
 kmxo.
 niamccash.
 snamjosh.
@@ -160,43 +160,43 @@ selvarun-umass.
 bkb68.
 ashoo-jindal.
 sravankadudhuri.
+himanshu7895.
 maheshkhatal27.
 bird-03.
 Praiseto.
 templetontsai.
 
 **Top 25% contributors:**
+ariyadmir.
+koratalas.
 ronaldkarim.
 shridk.
 unbirthdays.
+VaishnaviLathkar98.
 SrijanPatwa.
 vermaamit1664.
 pradeepthipani.
-ariyadmir.
 MartinStoyanoff.
 abhrajyotikanrar.
 Atul-LNG.
 captainbraddles.
 DanielMadsenDK.
 jahnaviT2003.
-koratalas.
 mandeepkaran.
 mohitchauhan-dev.
 eriemer1.
 Mexiprince.
-at8807602.
 
 **Top 50% contributors:**
+sandeepd26.
+at8807602.
 chetnadev.
 dadhich-ashish.
 Vishnu-rvk.
-himanshu7895.
 isaac-vicentini.
 priyasnexpert.
 S-w-a-p-n-i-l-22.
 naveenraw25.
-sandeepd26.
-VaishnaviLathkar98.
 Rampriya-S.
 mo-dahir.
 shraddhakadam301298.
@@ -207,9 +207,10 @@ kylburns89.
 debendu-das.
 riya-misra-1.
 Saileshlanka.
+Paulsylo25.
 
 **Other contributors:**
-Paulsylo25.
+RahmanM.
 bhavyajain511.
 Shreedevisnow.
 Beeram12.
@@ -217,8 +218,10 @@ Charanjet.
 KedarisettiSreeVamsi.
 soham-shee.
 tejasathalye.
+umangkedia92.
 anurags10.
 ChndrshP.
+devalcodes.
 DhanushNehru.
 ezratkim.
 MGOPW.
@@ -231,25 +234,29 @@ QI-XING.
 sachinggsingh.
 Saiprethaa.
 saitarun2499.
+sndevs-slacker-issue-reporter[bot].
 Sravanik12.
+TheRashRash.
 ultralegendary.
+wiz0floyd.
 YadlaMani.
 aykmrgit.
 chelming.
 kalyan120694.
 kmohit2809.
-RahmanM.
-wiz0floyd.
+abhishekchavan-git.
 ashu759.
 bgrk005.
 mmaraj1.
 mvkassak.
 Piyushsahu99.
+saketh-22.
 ANIKETSURWASE.
 d7ianielsimonP.
 DennisRutherford.
 Gowthamsai29.
 Itsreema.
+Jahnavi-Solanki.
 manrick.
 marcos-michalski.
 mebeingmustaq.
@@ -258,13 +265,12 @@ monica9703.
 mucho243.
 prashantmrshine.
 pviglianti.
-saketh-22.
+rohi-v.
 Shriramjoshi86.
-sndevs-slacker-issue-reporter[bot].
 sohailkhilji.
+spnegi.
 SujathaSuj.
 TanushreeBorase.
-umangkedia92.
 A-Vishnupriya.
 acashkr.
 AdibaNaushad.
@@ -286,7 +292,6 @@ girishnagaraj09.
 GittyHarsha.
 GP-UOB.
 herambchaudhari4121.
-Jahnavi-Solanki.
 jefflintel.
 jekinz-tagline.
 john9006.
@@ -299,6 +304,7 @@ lokeshwar777.
 loordjay.
 mahamed-rashid.
 manoj424.
+MidhaShrey.
 Mihir008.
 Mikerniker.
 Narasimha677.
@@ -314,7 +320,6 @@ PraveenM1132.
 ravichandra1998g.
 robertbeeman.
 rohantjoshi.
-rohi-v.
 Ronilpatil22.
 saarimshaikh.
 sagarbhadke08.
@@ -326,7 +331,6 @@ shashwatmishraog.
 simt0m.
 singhaditya73.
 SKYsnaX.
-spnegi.
 Srikanth1306.
 steveuncg.
 stwinkle.
@@ -348,11 +352,11 @@ Lacah.
 SapphicFire.
 niamccash.
 Rampriya-S.
-ynr-ram.
 wiz0floyd.
 johndahl-now.
 kmohit2809.
 paigesndev.
+ynr-ram.
 snamjosh.
 mgopw.
 ishaanshoor.
@@ -365,10 +369,10 @@ amigujarathi.
 ajcooper72.
 chelming.
 hrobarikt.
+RahmanM.
 sumanthdosapati.
 smartcarleen.
 ankitshu.
-RahmanM.
 urspvs.
 Radhe-Manasa.
 kmxo.
@@ -402,6 +406,7 @@ shivamTodwal.
 iar42.
 mlemartien.
 riya-misra-1.
+selvarun-umass.
 hentonjd.
 23Thom.
 aatrey882.
@@ -410,7 +415,6 @@ salmaniqbal92.
 csharpie.
 mohitchauhan-dev.
 mr-swann.
-selvarun-umass.
 bkb68.
 SrijanPatwa.
 TRIGGEREDcoder.
@@ -433,16 +437,18 @@ jonahpiascik.
 soerenmaucher.
 avssrikanth.
 shridk.
+himanshu7895.
 davidkwhuang.
 maheshkhatal27.
 zahidask.
 DynamiteC.
 phr-nk.
 shakeel-sheikh.
+VaishnaviLathkar98.
 vjtknn.
-Yokesh0811.
 
 **Top 25% contributors:**
+Yokesh0811.
 MarcMouries.
 sn-ajb.
 DavidMarcial.
@@ -467,7 +473,9 @@ Jayden-Chiu.
 OrgovanGeza.
 ravichandra1998g.
 arhaan2019.
+ariyadmir.
 designitsecure.
+koratalas.
 llipovsky.
 seviceN.
 tejudhoran95.
@@ -479,6 +487,7 @@ domuserk.
 HarneetSital.
 jacebenson.
 ReginaldFawcett.
+sandeepd26.
 sheikhafsarzap.
 thorn91.
 Himanshu-skb-oo7.
@@ -488,7 +497,6 @@ aman2519.
 hoederath.
 manrick.
 namrataghorpade.
-VaishnaviLathkar98.
 vermaamit1664.
 almajam.
 ashu759.
@@ -498,7 +506,6 @@ danielliaus.
 JonSandoval.
 pradeepthipani.
 sauravsumankumar.
-ariyadmir.
 ashuprince121.
 hrichiksite.
 Iuliak.
@@ -514,12 +521,10 @@ goranlundqvist.
 harisnad.
 ivan-betev.
 jahnaviT2003.
-koratalas.
 mandeepkaran.
 Mexiprince.
 riya-vermaa.
 Saileshlanka.
-sandeepd26.
 allenandreas.
 anubhav-ritolia.
 apple9000.
@@ -534,16 +539,15 @@ src107.
 fn20200323.
 pratyushasndev.
 Vishnu-rvk.
-himanshu7895.
 homealone07.
 Iamsant.
 isaac-vicentini.
 jeremyrubio27.
 Sagar-agarwal.
 wiresgit.
+yourepicservices.
 
 **Top 50% contributors:**
-yourepicservices.
 ChecksumFailed.
 markroethof.
 priyasnexpert.
@@ -612,6 +616,7 @@ stwinkle.
 tejasathalye.
 thameemskings.
 Thrizvi.
+umangkedia92.
 vk-cloud.
 4bode.
 abhay625.
@@ -629,6 +634,7 @@ Coder0131.
 DaleD-SN.
 deathkraiser.
 demetris7.
+devalcodes.
 dhruvii-powershell.
 dorsy99.
 ezratkim.
@@ -640,9 +646,9 @@ j4rodm.
 jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
-jordanrogus.
 
 **Other contributors:**
+jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
@@ -674,9 +680,11 @@ samwinchet.
 sanchit-varshney.
 sanju009.
 Shambu-K.
+sndevs-slacker-issue-reporter[bot].
 speedy18.
 Sravanik12.
 Subhraneel77.
+TheRashRash.
 thomasvogh.
 tomlozano.
 trishitapingolia.
@@ -690,6 +698,7 @@ kalyan120694.
 manoj424.
 prashantmrshine.
 ToosinDada.
+abhishekchavan-git.
 bendouglass.
 ChilloutSenthil.
 Deraged.
@@ -711,7 +720,9 @@ mvkassak.
 nancystodd.
 outlivo.
 Piyushsahu99.
+rohi-v.
 sagarbhadke08.
+saketh-22.
 sohailkhilji.
 SweetPoodle.
 varunharih.
@@ -744,6 +755,7 @@ HariniSnow.
 himanisinghal.
 ishanjain18.
 Itsreema.
+Jahnavi-Solanki.
 javiervillarreal.
 jaz1gdev.
 JCofman.
@@ -772,13 +784,11 @@ ppalaskar.
 pviglianti.
 ranjithsit.
 rickylarsson.
-rohi-v.
 ron-karim.
-saketh-22.
 Shriramjoshi86.
 sivajyo0803.
-sndevs-slacker-issue-reporter[bot].
 snowritik.
+spnegi.
 SruthiSivarajan.
 sudhanshu-77.
 SujathaSuj.
@@ -788,7 +798,6 @@ TheSethRose.
 thoffman210.
 TonySerN.
 TracyCurry96.
-umangkedia92.
 VarAti.
 varunasuresh92.
 vishalbirajdar0712.
@@ -999,7 +1008,6 @@ ishwarighule.
 IslamMari.
 j-infinger.
 j2clow.
-Jahnavi-Solanki.
 jamalissimo.
 jambo969.
 jamiestroud.
@@ -1102,6 +1110,7 @@ mbartkowiak.
 mdirshadaelum.
 mgcnent.
 mhendershott.
+MidhaShrey.
 Mihir008.
 Mikerniker.
 mishraca.
@@ -1250,7 +1259,6 @@ somusekher.
 Sookeyy-12.
 Soulpancake000.
 Souradeephazra123.
-spnegi.
 Srikanth1306.
 srirampusuluri1.
 Srutip04.
